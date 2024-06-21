@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Sanjay R, a dedicated frontend developer with a deep passion for AI. Currently, I'm gaining valuable experience as a Software Intern at Green Collar Agri Tech, where I'm honing my skills in web development and exploring the exciting world of agricultural technology. 
+👋 Hi there! I'm Sanjay R, a dedicated frontend developer with a deep passion for AI.
 
 
 ## 🌐 Socials:
