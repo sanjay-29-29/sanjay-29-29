@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Sanjay R, a dedicated frontend developer with a deep passion for AI.
+👋 Hi there! I'm Sanjay R, a dedicated full stack developer with a deep passion for AI.
 
 
 ## 🌐 Socials:
